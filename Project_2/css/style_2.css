@@ -1,0 +1,9 @@
+ul{
+    list-style: square;
+}
+ul>li:nth-child(1){
+    color: darkcyan;
+}
+ul>li:nth-child(2){
+    color: rosybrown;
+}

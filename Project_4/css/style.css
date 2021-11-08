@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+table{
+    width: 500px;
+    height: 500px;
+    border: 2px solid greenyellow;
+    margin: auto;
+    margin-top: 100px;
+}
+.q{
+    background-color: yellow;
+}
+.w{
+    background-color: orange;
+}
+.e{
+    background-color: rgb(255, 75, 135);
+}
+.r{
+    background-color: blue;
+}
+.t{
+    background-color: red;
+}
+.y{
+    background-color: green;
+}

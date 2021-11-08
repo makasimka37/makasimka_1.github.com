@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+h1{
+    text-align: center;
+}
+span{
+    color: aqua;
+}
+ul>li{
+    list-style: none; 
+    background-color: white;
+}
+td{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+li{
+    list-style: none;
+    background-color: rgb(223, 167, 26);
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+main{
+    width: 1800px;
+    height: 800px;
+    margin: 15px auto;
+}
+.main-left{
+    width: 450px;
+    text-align: center;
+}
+.main-left> table{
+    width: 450px;
+}
+.main-right{
+width: 1150px;
+}
+.main-right>table{
+    width: 1150px;
+}
+.main-left, .main-right{
+    border-radius: 5px;
+    margin: 0 25px;
+    padding: 0 20px;
+    -webkit-box-shadow: 15px -15px 5px -5px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 15px -15px 5px -5px rgba(0, 0, 0, 0.6);
+    box-shadow: 15px -15px 5px -5px rgba(0, 0, 0, 0.6);}
+
+.main-left >td{
+    width: 400px;
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid black;
+}
+.btn{
+    width: 150px;
+    height: 50px;
+    background-color: cadetblue;
+    color: cornsilk;
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+}
+.btn:hover{
+    -webkit-box-shadow: 15px -15px 5px -5px rgba(0, 0, 0, 0.6);
+box-shadow: 15px -15px 5px -5px rgba(0, 0, 0, 0.6);
+}
+.btn_1{
+    width: 200px;
+    height: 20px;
+
+}
